@@ -19,11 +19,19 @@ This web application was created as pre employment test for Frontend Developer p
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `npm run build
+### `npm run build`
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-##Usage
+
+## Credits
+ReactJS - https://reactjs.org/
+react-router-dom - https://reactrouter.com/en/main
+Bulma CSS - https://bulma.io/
+
+## Usage
   ```md
     ![alt text](assets/images/screenshot.png)
-    ```
+  ```
+    
+
