@@ -1,8 +1,5 @@
-# Customer Information Management System (Frontend Developer Position Pre Employment Assessment )
+# CRUD Concept using REACTJS
 
-## Description
-
-This web application was created as pre employment test for Frontend Developer position at AHAM Asset Management Berhad. The developer need to develop Customer Information Management System that include RESTApi endpoints and small SPA client-side interface for this project. 
 
 ## Details:
 - RESTApi endpoints for register, view, update and delete customer details.
